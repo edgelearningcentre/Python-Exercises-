@@ -1,7 +1,7 @@
 """
 Title     : Arithmetic Operators
 Language  : Python
-Author    : Neeraj Julka
+Author    : edgelearningcentre
 Created   : 25 March, 2023
 Problem   : https://www.hackerrank.com/challenges/python-arithmetic-operators/problem
 """
