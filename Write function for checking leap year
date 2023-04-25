@@ -1,0 +1,13 @@
+"""
+Title     : Write a function
+Domain    : Python
+Author    : edgelearningcentre
+Created   : 25 April 2023
+Problem   : https://www.hackerrank.com/challenges/write-a-function/problem
+"""
+
+
+year = int(input())
+leap = lambda year : 'leap year ' if year % 400 == 0 or year % 4 ==0 and year % 100 !=0 else 'Not L
+print(leap(year))
+
